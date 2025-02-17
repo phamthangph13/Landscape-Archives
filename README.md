@@ -65,13 +65,11 @@ python main.py --input path/to/modern/building.jpg --output historical_result.jp
 ```
 
 ## 📊 Results
-
 Examples of transformation:
-
 | Modern Building | Historical Transformation |
 |-----------------|---------------------------|
-| ![Modern](https://github.com/phamthangph13/Landscape-Archives/blob/main/Input/1.jpg) | ![Historical](https://github.com/phamthangph13/Landscape-Archives/blob/main/Result/1.jpg) |
-| ![Modern](https://github.com/phamthangph13/Landscape-Archives/blob/main/Input/2.jpg) | ![Historical](https://github.com/phamthangph13/Landscape-Archives/blob/main/Result/2.jpg) |
+| <img src="https://github.com/phamthangph13/Landscape-Archives/blob/main/Input/1.jpg" width="300"/> | <img src="https://github.com/phamthangph13/Landscape-Archives/blob/main/Result/1.jpg" width="300"/> |
+| <img src="https://github.com/phamthangph13/Landscape-Archives/blob/main/Input/2.jpg" width="300"/> | <img src="https://github.com/phamthangph13/Landscape-Archives/blob/main/Result/2.jpg" width="300"/> |
 
 ## 📋 Model Architecture
 
