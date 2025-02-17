@@ -70,8 +70,8 @@ Examples of transformation:
 
 | Modern Building | Historical Transformation |
 |-----------------|---------------------------|
-| ![Modern](examples/modern_1.jpg) | ![Historical](examples/historical_1.jpg) |
-| ![Modern](examples/modern_2.jpg) | ![Historical](examples/historical_2.jpg) |
+| ![Modern](https://github.com/phamthangph13/Landscape-Archives/blob/main/Input/1.jpg) | ![Historical](https://github.com/phamthangph13/Landscape-Archives/blob/main/Result/1.jpg) |
+| ![Modern](https://github.com/phamthangph13/Landscape-Archives/blob/main/Input/2.jpg) | ![Historical](https://github.com/phamthangph13/Landscape-Archives/blob/main/Result/2.jpg) |
 
 ## 📋 Model Architecture
 
