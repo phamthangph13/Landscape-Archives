@@ -38,7 +38,7 @@ The model requires paired images of modern and historical architecture:
 ### Download
 
 Download the prepared dataset from our Google Drive:
-[Download Dataset](https://drive.google.com/drive/folders/1kaBdi9HJ04lQNePKtJ5_xawbtkBPthZi?usp=sharing)
+[Download Dataset](https://drive.google.com/drive/folders/1H_ToVqEeYb7_mAni7rdSjO7-wJcmJUTs?usp=sharing)
 
 Extract the contents into a `data` directory in your project folder.
 
