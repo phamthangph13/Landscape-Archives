@@ -86,7 +86,7 @@ Examples of transformation:
 ## ⚙️ Pretrained Checkpoints
 
 Download our pretrained model (200 epochs) from:
-[Download Checkpoints](https://drive.google.com/drive/folders/1N0Cd89T0ABDqO7bkMfMq79PyENag4cBX?usp=sharing)
+[Download Checkpoints](https://mega.nz/folder/y2gVnbzA#QhJkC3Y85BFMMwgxy_OvNw)
 
 ## 📝 Requirements
 
